@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shunno
+
+This log tracks the cryptographic history and versioning for the song **Shunno** (shunno).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T00:52:36.913028 | `v1` | `89b13a11204d97393f1705c27279e2d435e16cb3acbe725dceb38bbcb467ddee` | `ac0ffe09de5bfceed4fe63d1fe36b05cf525e8203fc7c02a6e27fbbcc3d86c4f` | `2026-05-28_shunno-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
