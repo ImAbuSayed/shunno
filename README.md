@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা মায়ায় ঘেরা এই ঘোর লাগা রাত
+> খুঁজে ফেরে শুধু তোমার ওই নরম উষ্ণ হাত
+> নিঃশ্বাসে মিশে আছে অদ্ভুত শিহরণ
+> তোমাকেই চায় আজ আমার অবুঝ মন
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
